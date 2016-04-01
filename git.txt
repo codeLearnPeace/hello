@@ -4,4 +4,6 @@ git diff <branch1>..<branch2>
 git merge <branch1> <branch2>
 git branch -d <->:delete
 
+
+git merge/gif <branch:rouge> <branch:verte> ;)
 idée:travailler localement à git et commit sur svn master
