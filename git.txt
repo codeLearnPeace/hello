@@ -6,4 +6,6 @@ git branch -d <->:delete
 
 
 git merge/gif <branch:rouge> <branch:verte> ;)
-idée:travailler localement à git et commit sur svn master
+idée:travailler localement sur git et commit sur svn
+http://www.wei-wang.com/ExplainGitWithD3/ : simulateur 3D
+https://github.com/new
